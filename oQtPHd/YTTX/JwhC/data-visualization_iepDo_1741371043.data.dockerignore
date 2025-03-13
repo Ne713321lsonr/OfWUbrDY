@@ -26,7 +26,6 @@ gradio/hash_seed.txt
 # Tests
 .coverage
 coverage.xml
-test.txt
 
 # Demos
 demo/tmp.zip

@@ -93,7 +93,6 @@ dockers:
       - etc
       - integrations
     use: buildx
-    build_flag_templates:
       - "--platform=linux/amd64"
   - image_templates:
       - flashcatcloud/nightingale:{{ .Version }}-arm64v8

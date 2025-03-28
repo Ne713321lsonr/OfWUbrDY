@@ -8,7 +8,6 @@ That's because overtime the game evolved, becoming "Connect four", "Bingo", and 
 
 We had a group of four, and we decided to name ir after our initials. (Han, Abhay Dhruva, Allen). I had already started creating prototypes, and we began drawing mock-ups and UI diagrams. I told abhay to start working on the graphics.
 
-He was the class photographer, se he became the Graphic Designer for our game. I was the Devoloper, and also the leader, or so I'd like to think. I didnt really have much control over others. While I was working upwards of 25 Hours a week, both Han and Allen barely worked at all. Abhay on the other hand, while hardworking, often went in completly different directions. Sometimes he would send me sprites that were larger than the whole game itself, or try to create "loading screens" that actually just displayed animations for a fixed amount of time. I had a hard time giving him directives, and a lot of it was because I didnt feel I should have the authority. This was mostly because the code i wrote was pretty bad. It was inefficient, there was a lof of duplication of effort and it just had bad coding practices in general. 
 
 But then i realised the most important fact of working in a group; The people that i'm working with are just people. That can come to their own resolutions. And thats what happened.
 

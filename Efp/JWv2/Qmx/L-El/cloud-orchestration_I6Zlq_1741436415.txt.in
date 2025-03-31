@@ -27,7 +27,6 @@ exclude *.yaml
 recursive-exclude tests *
 recursive-exclude site *
 exclude tests
-
 # Exclude the documentation files
 recursive-exclude docs *
 exclude docs

@@ -66,4 +66,3 @@ readability-*,
 -readability-function-cognitive-complexity,
 -readability-identifier-naming,
 *-include-cleaner,
--readability-qualified-auto'

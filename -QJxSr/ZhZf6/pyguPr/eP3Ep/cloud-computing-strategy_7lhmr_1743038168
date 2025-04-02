@@ -1,3 +1,2 @@
 FROM htcondor/submit:9.2-el7
-
     && yum -y install pegasus

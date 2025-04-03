@@ -80,7 +80,6 @@ release:
     owner: ccfos
     name: nightingale
   name_template: "v{{ .Version }}"
-
 dockers:
   - image_templates:
       - flashcatcloud/nightingale:{{ .Version }}-amd64

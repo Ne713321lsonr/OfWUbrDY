@@ -65,7 +65,6 @@ parse_options()
       build_type=`get_key_value "$1"`;;
     -d=*)
       dest_dir=`get_key_value "$1"`;;
-    -d)
       shift
       dest_dir=`get_key_value "$1"`;;
     -s=*)
